@@ -25,8 +25,197 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:2026-10-28-1@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🚴 Rad Trainer · 60 min Grundlage
+DESCRIPTION:Locker nach der langen Fahrt am 27.10.\n60 min Grundlage 160
+ –200 W (56–70 % von FTP 282)\, Trittfrequenz 90–100.\nKeine Interva
+ lle.
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-1@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏃 Lauf locker · 45 min
+DESCRIPTION:45 min locker.\nPuls 145–157 (Grundlage)\, etwa 5:35–5:15
+  min/km. Am Puls ausrichten\, nicht an der Pace.\nDie letzten 5 min ausla
+ ufen.
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-2@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏋️ Kraft A · Beine (70 %)
+DESCRIPTION:Erste Einheit: nur 70 % der Gewichte\, die du dir zutraust.\n
+ Aufwärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Beinpresse 3×6 (
+ Becken bleibt am Polster\, nicht so tief\, dass sich der untere Rücken r
+ undet)\n2) Bulgarische Split-Squats mit Kurzhanteln 2×6–8 pro Bein\n3)
+  Hip Thrust 2×8\n4) Beinbeuger Maschine 2×10\n5) Wadenheben\, 3 s absen
+ ken\, 2×12\nPause 2 min zwischen schweren Sätzen. 1–2 Wiederholungen 
+ Reserve\, kein Muskelversagen.\nRücken: keine Last auf der Wirbelsäule\
+ , keine Beugung/Drehung unter Last. Bei Ausstrahlung ins rechte Bein Übu
+ ng weglassen.
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-1@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏃 Langer Lauf · 75 min
+DESCRIPTION:75 min ruhig\, Puls unter 157.\nPuls 145–157 (Grundlage)\, 
+ etwa 5:35–5:15 min/km. Am Puls ausrichten\, nicht an der Pace.\nTrinken
+  ab 60 min\, falls warm.
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-31-2@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏊 Schwimmen · 4×300 m
+DESCRIPTION:Einschwimmen 200 m locker. Technik 10 min: 4×50 m Abschlag (
+ Catch-up)\, 4×50 m Seitlage 6-1-6 (Rotation)\, 2×50 m Faust geschlossen
+ .\nHauptteil: 4×300 m ruhig (2:00–2:05/100 m)\, 30 s Pause. Die letzte
+  300 ohne Pull-Buoy.\nAusschwimmen 100–200 m locker.\nGesamt ca. 1\,8 k
+ m.
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-01-1@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🚴 Rad lang · 90 min
+DESCRIPTION:90 min Grundlage 160–200 W (56–70 % von FTP 282)\, Trittf
+ requenz 90–100.\nAnstiege sitzend\, Watt nicht über 230.\nVerpflegung:
+  ab Minute 30 alle 20 min ca. 20 g Kohlenhydrate (60 g/h)\, 500–750 ml 
+ pro Stunde. Indoor mit Ventilator.
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-1@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏊 Schwimmen · 6×200 m
+DESCRIPTION:Einschwimmen 200 m locker. Technik 10 min: 4×50 m Abschlag (
+ Catch-up)\, 4×50 m Seitlage 6-1-6 (Rotation)\, 2×50 m Faust geschlossen
+ .\nHauptteil: 6×200 m\, 20 s Pause. 1–4 ruhig mit Pull-Buoy (2:00/100 
+ m)\, 5–6 ohne Pull-Buoy.\nGesamt ca. 2\,0 km.\nAusschwimmen 100–200 m
+  locker.\nTempo-Anhalt: ruhig 2:00–2:05/100 m\, zügig 1:50–1:55/100 
+ m\, schnell 1:45/100 m.
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-2@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏋️ Kraft A · Beine & Drücken
+DESCRIPTION:Aufwärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Physi
+ o-Übung: 15-kg-Langhantel mit gestreckten Armen über Kopf halten\, dabe
+ i Ausfallschritte auf der Stelle\, 3×6–8 pro Bein. Rippen unten\, Bauc
+ h fest\, kein Hohlkreuz\, langsam.\n2) Beinpresse 3–4×6 (Becken bleibt
+  am Polster)\n3) Bulgarische Split-Squats mit Kurzhanteln 3×6–8 pro Be
+ in\n4) Schrägbankdrücken Maschine 3×8\n5) Latzug (Neutral- oder Unterg
+ riff) 3×8\, nicht weit zurücklehnen\n6) Rudern am Kabelturm sitzend 3×
+ 10\, aufrecht\, Oberkörper ruhig\, kein Schwung\n7) Beinbeuger Maschine 
+ 2×10\n8) Wadenheben\, 3 s absenken\, 2×12\nPause 2 min zwischen schwere
+ n Sätzen. 1–2 Wiederholungen Reserve\, kein Muskelversagen. Zu lang? E
+ rst Wadenheben\, dann Beinbeuger weglassen.\nRücken: keine Last auf der 
+ Wirbelsäule (Ausnahme Physio-Übung)\, keine Beugung/Drehung unter Last.
+  Hanteln aus den Beinen aufnehmen. Bei Ausstrahlung ins rechte Bein Übun
+ g weglassen.
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-04-1@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🚴 Rad Trainer · Sweet-Spot-Test 3×12 min
+DESCRIPTION:Praxistest für FTP 282 W.\n15 min einfahren (160–200 W)\, 
+ darin 3×1 min 250 W.\nHauptteil: 3×12 min bei 248–265 W (88–94 % FT
+ P)\, Trittfrequenz 88–95\, 4 min locker dazwischen.\n10 min ausfahren.\
+ nGehen alle drei Blöcke sauber: FTP passt. Bricht der dritte ab: FTP ehe
+ r ~265 W\, Bereiche anpassen.\nGesamt ca. 75 min. 1 Flasche mit 40–60 g
+  Kohlenhydraten.
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-1@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏃 Lauf locker · 45 min
+DESCRIPTION:45 min locker.\nPuls 145–157 (Grundlage)\, etwa 5:35–5:15
+  min/km. Am Puls ausrichten\, nicht an der Pace.
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-2@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏋️ Kraft B · Ziehen\, einbeinig\, Rumpf
+DESCRIPTION:Aufwärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Physi
+ o-Übung: 15-kg-Langhantel mit gestreckten Armen über Kopf halten\, dabe
+ i Ausfallschritte auf der Stelle\, 3×6–8 pro Bein. Rippen unten\, Bauc
+ h fest\, kein Hohlkreuz\, langsam.\n2) Klimmzüge 3×5–8 (bei Bedarf mi
+ t Band oder Maschine)\, sauber\, ohne Schwung\n3) Schrägbankdrücken Mas
+ chine 3×8\n4) Brustgestütztes Rudern\, breiter Griff 3×8–10\, Brust 
+ bleibt am Polster\n5) Step-ups auf Kiste 3×8 pro Bein\n6) Face Pulls + S
+ eitheben sitzend im Wechsel\, je 2×12–15\n7) McGill Big 3: Curl-up\, S
+ eitstütz\, Vierfüßler mit gestrecktem Arm/Bein – je 3 Runden\, 8–1
+ 0 s halten\; Pallof-Press 3×10 pro Seite\n1–2 Wiederholungen Reserve\,
+  kein Muskelversagen.\nRücken: keine Last auf der Wirbelsäule (Ausnahme
+  Physio-Übung)\, keine Beugung/Drehung unter Last. Hanteln aus den Beine
+ n aufnehmen. Bei Ausstrahlung ins rechte Bein Übung weglassen.
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-1@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏃 Langer Lauf · 80 min
+DESCRIPTION:80 min ruhig\, Puls unter 157.\nPuls 145–157 (Grundlage)\, 
+ etwa 5:35–5:15 min/km. Am Puls ausrichten\, nicht an der Pace.
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-07-2@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🏊 Schwimmen · 3×400 m
+DESCRIPTION:Einschwimmen 200 m locker.\nHauptteil: 3×400 m ruhig (2:00
+ –2:05/100 m)\, 40 s Pause. Mittlere 400 ohne Pull-Buoy.\nGesamt ca. 1\,
+ 8 km.\nAusschwimmen 100–200 m locker.
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-08-1@benedict-training
+DTSTAMP:20261111T120810Z
+SUMMARY:🚴 Rad lang · 100 min
+DESCRIPTION:100 min Grundlage 160–200 W (56–70 % von FTP 282)\, Tritt
+ frequenz 90–100.\nAnstiege sitzend\, Watt nicht über 230.\nVerpflegung
+ : ab Minute 30 alle 20 min ca. 20 g Kohlenhydrate (60 g/h)\, 500–750 ml
+  pro Stunde. Indoor mit Ventilator.
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-10-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏊 Schwimmen · 4×200 m (Entlastung)
 DESCRIPTION:Einschwimmen 200 m locker. Technik 10 min: 4×50 m Abschlag (
  Catch-up)\, 4×50 m Seitlage 6-1-6 (Rotation)\, 2×50 m Faust geschlossen
@@ -40,7 +229,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10-2@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏋️ Kraft A · Beine (Entlastung)
 DESCRIPTION:Entlastung: gleiche Gewichte\, nur 2 Sätze pro Übung.\nAufw
  ärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Beinpresse 2×6 (Beck
@@ -57,7 +246,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad Trainer · 45 min locker (Entlastung)
 DESCRIPTION:Entlastung.\n45 min bei 150–180 W\, Trittfrequenz 95–100.
  \nDarin 4×30 s hohe Trittfrequenz (110+).
@@ -67,7 +256,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Lauf locker · 35 min (Entlastung)
 DESCRIPTION:35 min locker.\nPuls 145–157 (Grundlage)\, etwa 5:35–5:15
   min/km. Am Puls ausrichten\, nicht an der Pace.
@@ -77,7 +266,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12-2@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🧘 Rumpf & Mobilität · 20 min (Entlastung)
 DESCRIPTION:Statt Kraft B.\nMcGill Big 3: Curl-up\, Seitstütz\, Vierfü
  ßler – je 3 Runden\, 8–10 s halten.\nHüftbeuger-Dehnung 2×45 s pro
@@ -90,7 +279,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Langer Lauf · 60 min (Entlastung)
 DESCRIPTION:60 min ruhig\, Puls unter 157.\nPuls 145–157 (Grundlage)\, 
  etwa 5:35–5:15 min/km. Am Puls ausrichten\, nicht an der Pace.
@@ -100,7 +289,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14-2@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏊 Schwimmen · 2×400 m (Entlastung)
 DESCRIPTION:Einschwimmen 200 m locker.\nEntlastung. 2×400 m locker\, 1 m
  in Pause.\nGesamt ca. 1\,2 km.\nAusschwimmen 100–200 m locker.
@@ -110,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad lang · 60 min (Entlastung)
 DESCRIPTION:60 min Grundlage 160–200 W (56–70 % von FTP 282)\, Trittf
  requenz 90–100.\nEntlastung: ganz locker\, 150–180 W.
@@ -120,7 +309,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏊 Schwimmen · 4×300 m
 DESCRIPTION:Einschwimmen 200 m locker. Technik 10 min: 4×50 m Abschlag (
  Catch-up)\, 4×50 m Seitlage 6-1-6 (Rotation)\, 2×50 m Faust geschlossen
@@ -134,24 +323,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17-2@benedict-training
-DTSTAMP:20261109T200519Z
-SUMMARY:🏋️ Kraft A · Beine
-DESCRIPTION:Gewichte langsam steigern\, wenn alle Wiederholungen sauber g
- ehen.\nAufwärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Beinpresse
-  4×6 (Becken bleibt am Polster\, nicht so tief\, dass sich der untere R
- ücken rundet)\n2) Bulgarische Split-Squats mit Kurzhanteln 3×6–8 pro 
- Bein\n3) Hip Thrust 3×8\n4) Beinbeuger Maschine 3×10\n5) Wadenheben\, 3
-  s absenken\, 3×12\nPause 2 min zwischen schweren Sätzen. 1–2 Wiederh
- olungen Reserve\, kein Muskelversagen.\nRücken: keine Last auf der Wirbe
- lsäule\, keine Beugung/Drehung unter Last. Bei Ausstrahlung ins rechte B
- ein Übung weglassen.
+DTSTAMP:20261111T120810Z
+SUMMARY:🏋️ Kraft A · Beine & Drücken
+DESCRIPTION:Aufwärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Physi
+ o-Übung: 15-kg-Langhantel mit gestreckten Armen über Kopf halten\, dabe
+ i Ausfallschritte auf der Stelle\, 3×6–8 pro Bein. Rippen unten\, Bauc
+ h fest\, kein Hohlkreuz\, langsam.\n2) Beinpresse 3–4×6 (Becken bleibt
+  am Polster)\n3) Bulgarische Split-Squats mit Kurzhanteln 3×6–8 pro Be
+ in\n4) Schrägbankdrücken Maschine 3×8\n5) Latzug (Neutral- oder Unterg
+ riff) 3×8\, nicht weit zurücklehnen\n6) Rudern am Kabelturm sitzend 3×
+ 10\, aufrecht\, Oberkörper ruhig\, kein Schwung\n7) Beinbeuger Maschine 
+ 2×10\n8) Wadenheben\, 3 s absenken\, 2×12\nPause 2 min zwischen schwere
+ n Sätzen. 1–2 Wiederholungen Reserve\, kein Muskelversagen. Zu lang? E
+ rst Wadenheben\, dann Beinbeuger weglassen.\nRücken: keine Last auf der 
+ Wirbelsäule (Ausnahme Physio-Übung)\, keine Beugung/Drehung unter Last.
+  Hanteln aus den Beinen aufnehmen. Bei Ausstrahlung ins rechte Bein Übun
+ g weglassen.
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad Trainer · Kraftausdauer 4×6 min
 DESCRIPTION:15 min einfahren.\nHauptteil: 4×6 min bei 60–65 U/min und 
  200–225 W\, sitzend\, Oberkörper ruhig. 3 min locker mit 95+ U/min daz
@@ -163,7 +357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Lauf locker · 45 min
 DESCRIPTION:45 min locker.\nPuls 145–157 (Grundlage)\, etwa 5:35–5:15
   min/km. Am Puls ausrichten\, nicht an der Pace.
@@ -173,22 +367,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-2@benedict-training
-DTSTAMP:20261109T200519Z
-SUMMARY:🏋️ Kraft B · einbeinig\, Rumpf\, Schulter
-DESCRIPTION:1) Step-ups auf Kiste 3×8 pro Bein\n2) Einbeinige Brücke 3
- ×10 pro Seite\n3) McGill Big 3: Curl-up\, Seitstütz\, Vierfüßler mit 
- gestrecktem Arm/Bein – je 3 Runden\, 8–10 s halten\, 5–6 Wdh.\n4) P
- allof-Press 3×10 pro Seite\n5) Brustgestütztes Rudern 3×8\n6) Außenro
- tation mit Band 3×15\n7) Zugseil/Theraband Kraulzug 3×15\nRücken: kein
- e Last auf der Wirbelsäule\, keine Beugung/Drehung unter Last. Bei Ausst
- rahlung ins rechte Bein Übung weglassen.
+DTSTAMP:20261111T120810Z
+SUMMARY:🏋️ Kraft B · Ziehen\, einbeinig\, Rumpf
+DESCRIPTION:Aufwärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Physi
+ o-Übung: 15-kg-Langhantel mit gestreckten Armen über Kopf halten\, dabe
+ i Ausfallschritte auf der Stelle\, 3×6–8 pro Bein. Rippen unten\, Bauc
+ h fest\, kein Hohlkreuz\, langsam.\n2) Klimmzüge 3×5–8 (bei Bedarf mi
+ t Band oder Maschine)\, sauber\, ohne Schwung\n3) Schrägbankdrücken Mas
+ chine 3×8\n4) Brustgestütztes Rudern\, breiter Griff 3×8–10\, Brust 
+ bleibt am Polster\n5) Step-ups auf Kiste 3×8 pro Bein\n6) Face Pulls + S
+ eitheben sitzend im Wechsel\, je 2×12–15\n7) McGill Big 3: Curl-up\, S
+ eitstütz\, Vierfüßler mit gestrecktem Arm/Bein – je 3 Runden\, 8–1
+ 0 s halten\; Pallof-Press 3×10 pro Seite\n1–2 Wiederholungen Reserve\,
+  kein Muskelversagen.\nRücken: keine Last auf der Wirbelsäule (Ausnahme
+  Physio-Übung)\, keine Beugung/Drehung unter Last. Hanteln aus den Beine
+ n aufnehmen. Bei Ausstrahlung ins rechte Bein Übung weglassen.
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Langer Lauf · 85 min
 DESCRIPTION:85 min ruhig\, Puls unter 157.\nPuls 145–157 (Grundlage)\, 
  etwa 5:35–5:15 min/km. Am Puls ausrichten\, nicht an der Pace.
@@ -198,7 +398,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21-2@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏊 Schwimmen · 2×500 m
 DESCRIPTION:Einschwimmen 200 m locker.\nHauptteil: 2×500 m ruhig (2:00/1
  00 m)\, 1 min Pause. Zweite 500 ohne Pull-Buoy.\nGesamt ca. 1\,6 km.\nAus
@@ -209,7 +409,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad lang · 105 min
 DESCRIPTION:105 min Grundlage 160–200 W (56–70 % von FTP 282)\, Tritt
  frequenz 90–100.\nAnstiege sitzend\, Watt nicht über 230.\nVerpflegung
@@ -221,7 +421,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏊 Schwimmen · 3×400 m
 DESCRIPTION:Einschwimmen 200 m locker. Technik 10 min: 4×50 m Abschlag (
  Catch-up)\, 4×50 m Seitlage 6-1-6 (Rotation)\, 2×50 m Faust geschlossen
@@ -235,24 +435,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24-2@benedict-training
-DTSTAMP:20261109T200519Z
-SUMMARY:🏋️ Kraft A · Beine
-DESCRIPTION:Gewichte langsam steigern\, wenn alle Wiederholungen sauber g
- ehen.\nAufwärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Beinpresse
-  4×6 (Becken bleibt am Polster\, nicht so tief\, dass sich der untere R
- ücken rundet)\n2) Bulgarische Split-Squats mit Kurzhanteln 3×6–8 pro 
- Bein\n3) Hip Thrust 3×8\n4) Beinbeuger Maschine 3×10\n5) Wadenheben\, 3
-  s absenken\, 3×12\nPause 2 min zwischen schweren Sätzen. 1–2 Wiederh
- olungen Reserve\, kein Muskelversagen.\nRücken: keine Last auf der Wirbe
- lsäule\, keine Beugung/Drehung unter Last. Bei Ausstrahlung ins rechte B
- ein Übung weglassen.
+DTSTAMP:20261111T120810Z
+SUMMARY:🏋️ Kraft A · Beine & Drücken
+DESCRIPTION:Aufwärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Physi
+ o-Übung: 15-kg-Langhantel mit gestreckten Armen über Kopf halten\, dabe
+ i Ausfallschritte auf der Stelle\, 3×6–8 pro Bein. Rippen unten\, Bauc
+ h fest\, kein Hohlkreuz\, langsam.\n2) Beinpresse 3–4×6 (Becken bleibt
+  am Polster)\n3) Bulgarische Split-Squats mit Kurzhanteln 3×6–8 pro Be
+ in\n4) Schrägbankdrücken Maschine 3×8\n5) Latzug (Neutral- oder Unterg
+ riff) 3×8\, nicht weit zurücklehnen\n6) Rudern am Kabelturm sitzend 3×
+ 10\, aufrecht\, Oberkörper ruhig\, kein Schwung\n7) Beinbeuger Maschine 
+ 2×10\n8) Wadenheben\, 3 s absenken\, 2×12\nPause 2 min zwischen schwere
+ n Sätzen. 1–2 Wiederholungen Reserve\, kein Muskelversagen. Zu lang? E
+ rst Wadenheben\, dann Beinbeuger weglassen.\nRücken: keine Last auf der 
+ Wirbelsäule (Ausnahme Physio-Übung)\, keine Beugung/Drehung unter Last.
+  Hanteln aus den Beinen aufnehmen. Bei Ausstrahlung ins rechte Bein Übun
+ g weglassen.
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad Trainer · Kraftausdauer 4×8 min
 DESCRIPTION:15 min einfahren.\nHauptteil: 4×8 min bei 60–65 U/min und 
  200–225 W\, 3 min locker dazwischen.\nRest bis 75 min Grundlage 160–2
@@ -263,7 +468,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Lauf locker · 50 min
 DESCRIPTION:50 min locker.\nPuls 145–157 (Grundlage)\, etwa 5:35–5:15
   min/km. Am Puls ausrichten\, nicht an der Pace.
@@ -273,22 +478,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26-2@benedict-training
-DTSTAMP:20261109T200519Z
-SUMMARY:🏋️ Kraft B · einbeinig\, Rumpf\, Schulter
-DESCRIPTION:1) Step-ups auf Kiste 3×8 pro Bein\n2) Einbeinige Brücke 3
- ×10 pro Seite\n3) McGill Big 3: Curl-up\, Seitstütz\, Vierfüßler mit 
- gestrecktem Arm/Bein – je 3 Runden\, 8–10 s halten\, 5–6 Wdh.\n4) P
- allof-Press 3×10 pro Seite\n5) Brustgestütztes Rudern 3×8\n6) Außenro
- tation mit Band 3×15\n7) Zugseil/Theraband Kraulzug 3×15\nRücken: kein
- e Last auf der Wirbelsäule\, keine Beugung/Drehung unter Last. Bei Ausst
- rahlung ins rechte Bein Übung weglassen.
+DTSTAMP:20261111T120810Z
+SUMMARY:🏋️ Kraft B · Ziehen\, einbeinig\, Rumpf
+DESCRIPTION:Aufwärmen 5 min Rad/Rudergerät + 2 Sätze leicht.\n1) Physi
+ o-Übung: 15-kg-Langhantel mit gestreckten Armen über Kopf halten\, dabe
+ i Ausfallschritte auf der Stelle\, 3×6–8 pro Bein. Rippen unten\, Bauc
+ h fest\, kein Hohlkreuz\, langsam.\n2) Klimmzüge 3×5–8 (bei Bedarf mi
+ t Band oder Maschine)\, sauber\, ohne Schwung\n3) Schrägbankdrücken Mas
+ chine 3×8\n4) Brustgestütztes Rudern\, breiter Griff 3×8–10\, Brust 
+ bleibt am Polster\n5) Step-ups auf Kiste 3×8 pro Bein\n6) Face Pulls + S
+ eitheben sitzend im Wechsel\, je 2×12–15\n7) McGill Big 3: Curl-up\, S
+ eitstütz\, Vierfüßler mit gestrecktem Arm/Bein – je 3 Runden\, 8–1
+ 0 s halten\; Pallof-Press 3×10 pro Seite\n1–2 Wiederholungen Reserve\,
+  kein Muskelversagen.\nRücken: keine Last auf der Wirbelsäule (Ausnahme
+  Physio-Übung)\, keine Beugung/Drehung unter Last. Hanteln aus den Beine
+ n aufnehmen. Bei Ausstrahlung ins rechte Bein Übung weglassen.
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Langer Lauf · 90 min
 DESCRIPTION:90 min ruhig\, Puls unter 157.\nPuls 145–157 (Grundlage)\, 
  etwa 5:35–5:15 min/km. Am Puls ausrichten\, nicht an der Pace.\nAb 75 m
@@ -299,7 +510,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28-2@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏊 Schwimmen · 600 m
 DESCRIPTION:Einschwimmen 200 m locker.\nHauptteil: 600 m ruhig am Stück\
  , 1 min Pause\, 2×200 m zügig.\nGesamt ca. 1\,7 km.\nAusschwimmen 100
@@ -310,7 +521,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad lang · 120 min
 DESCRIPTION:120 min Grundlage 160–200 W (56–70 % von FTP 282)\, Tritt
  frequenz 90–100.\nAnstiege sitzend\, Watt nicht über 230.\nVerpflegung
@@ -322,7 +533,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Lauf locker · 30 min
 DESCRIPTION:30 min locker.\nPuls 145–157 (Grundlage)\, etwa 5:35–5:15
   min/km. Am Puls ausrichten\, nicht an der Pace.
@@ -332,7 +543,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad Trainer · Schwelle 3×6 min
 DESCRIPTION:10 min einfahren 160–200 W\, darin 2×1 min 250 W.\nHauptte
  il: 3×6 min bei 255–270 W (90–96 % FTP)\, Trittfrequenz 88–95\, 3 
@@ -344,7 +555,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Lauf · 6×1 min zügig
 DESCRIPTION:10 min locker einlaufen.\n6×1 min zügig (Gefühl wie 10-km-
  Wettkampftempo)\, je 1 min locker traben.\nRest bis 30 min locker auslauf
@@ -355,7 +566,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏊 Schwimmen · 8×100 m zügig
 DESCRIPTION:Einschwimmen 200 m locker.\nHauptteil: 8×100 m zügig (1:50
  –1:55/100 m)\, 20 s Pause. Die letzten 2 ohne Pull-Buoy.\nAusschwimmen 
@@ -366,7 +577,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad Trainer · 45 min locker
 DESCRIPTION:Nach der letzten Klausur zum Abschalten.\n45 min Grundlage 16
  0–200 W\, Trittfrequenz 90–100. Keine Intervalle.
@@ -376,7 +587,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Lauf locker · 30 min (optional)
 DESCRIPTION:Nur wenn der Umzug Luft lässt.\n30 min locker.\nPuls 145–1
  57 (Grundlage)\, etwa 5:35–5:15 min/km. Am Puls ausrichten\, nicht an d
@@ -387,7 +598,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Lauf locker · 30 min (optional)
 DESCRIPTION:Nur wenn der Umzug Luft lässt.\n30 min locker.\nPuls 145–1
  57 (Grundlage)\, etwa 5:35–5:15 min/km. Am Puls ausrichten\, nicht an d
@@ -398,7 +609,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad Trainer · 45 min Grundlage
 DESCRIPTION:45 min Grundlage 160–200 W\, Trittfrequenz 90–100.
 DTSTART;VALUE=DATE:20261211
@@ -407,7 +618,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏃 Lauf · 60 min Grundlage
 DESCRIPTION:60 min ruhig\, Puls unter 157.\nPuls 145–157 (Grundlage)\, 
  etwa 5:35–5:15 min/km. Am Puls ausrichten\, nicht an der Pace.
@@ -417,7 +628,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-12-2@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🏊 Schwimmen · 4×300 m
 DESCRIPTION:Einschwimmen 200 m locker. Technik 10 min: 4×50 m Abschlag (
  Catch-up)\, 4×50 m Seitlage 6-1-6.\nHauptteil: 4×300 m ruhig (2:00–2:
@@ -429,7 +640,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13-1@benedict-training
-DTSTAMP:20261109T200519Z
+DTSTAMP:20261111T120810Z
 SUMMARY:🚴 Rad lang · 90 min
 DESCRIPTION:90 min Grundlage 160–200 W\, Trittfrequenz 90–100.\nAnsti
  ege sitzend\, Watt nicht über 230.\nVerpflegung: ab Minute 30 alle 20 mi
